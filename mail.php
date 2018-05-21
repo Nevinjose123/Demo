@@ -4,7 +4,7 @@ if(isset($_POST['sub']))
 	$file_name=$_FILES['file']['name'];
 	$temp=$_FILES['file']['tmp_name'];
 	
-	$name="nevin Jose";
+	$name="Nevin Jose";
 	$email="nevin.logezy@gmail.com";
 	$to="$name <$email>";
 	$from        = "John-Smith ";
