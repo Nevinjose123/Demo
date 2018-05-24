@@ -1,5 +1,5 @@
 <?php
-$conn=mysqli_connect("localhost","root","","shopping");
+//$conn=mysqli_connect("localhost","root","","shopping");
 if(isset($_POST['sub']))
 {
 	$first =$_POST['name'];
